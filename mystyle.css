@@ -1,0 +1,53 @@
+body{
+	background-color: #f3e8e9;
+}
+.baneri{
+	background-color: #e9c5e6;
+	color: #f40fce;
+	font-size: 90px;
+	padding: 20px;
+}
+
+
+.logo{
+	font-size: 150px;
+	color: #f40fce;
+}
+
+#engName{
+font-size: 150px;
+font-family: Cookie, Sylfaen;
+}
+
+#GeoName{
+	font-size: 60px;
+	font-family: Gugeshashvili2, Sylfaen;
+}
+
+
+.info{
+	width="70%"
+	background-color: #FFFFFF;
+	font-size: 30px;
+	padding: 50px;
+	text-align: justify;
+	box-shadow: 0px 0px 10px black;
+	font-family: BPG Excelsior Black;
+}
+
+
+.star{
+	color: hotpink;
+}
+
+.contact{
+font-size: 25px;
+font-family: BPG Excelsior Black;
+
+}
+.konteineri{
+	
+
+	width: 25%;
+	text-align: left;
+}
